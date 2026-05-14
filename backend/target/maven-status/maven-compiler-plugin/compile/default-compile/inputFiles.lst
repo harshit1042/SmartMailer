@@ -20,6 +20,7 @@
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/campaign/CampaignStatus.java
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/common/ApiException.java
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/common/GlobalExceptionHandler.java
+/Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/common/HealthController.java
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/config/DevDataSeeder.java
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/config/JwtAuthenticationFilter.java
 /Users/harshit/SmartMailer/backend/src/main/java/com/smartmailer/config/SecurityConfig.java

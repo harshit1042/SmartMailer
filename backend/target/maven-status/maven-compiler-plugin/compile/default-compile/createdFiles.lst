@@ -42,6 +42,7 @@ com/smartmailer/auth/AuthDtos$RevealGmailPasswordRequest.class
 com/smartmailer/email/EmailLog.class
 com/smartmailer/config/JwtAuthenticationFilter.class
 com/smartmailer/campaign/CampaignDtos$DashboardStats.class
+com/smartmailer/common/HealthController.class
 com/smartmailer/recipient/RecipientDtos$UploadError.class
 com/smartmailer/auth/UserPrincipal.class
 com/smartmailer/campaign/CampaignRepository.class
